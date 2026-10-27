@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.4.1
+numpy<2
+mediapipe==0.10.14
+opencv-python-headless
+gradio==4.44.1
+fastapi==0.112.2
+huggingface_hub==0.25.2
+pydantic==2.10.6

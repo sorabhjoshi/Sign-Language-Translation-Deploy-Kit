@@ -1,0 +1,6 @@
+# Python 3.10 - 3.12
+torch
+numpy<2
+opencv-python
+mediapipe==0.10.14
+pyttsx3
